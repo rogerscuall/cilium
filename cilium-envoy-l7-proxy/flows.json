@@ -1,0 +1,3 @@
+{"lost_events":{"source":"HUBBLE_RING_BUFFER","num_events_lost":"1"},"node_name":"kind-kind/kind-worker","time":"2025-09-19T01:25:07.023787503Z"}
+{"lost_events":{"source":"HUBBLE_RING_BUFFER","num_events_lost":"1"},"node_name":"kind-kind/kind-worker2","time":"2025-09-19T01:25:07.023828003Z"}
+{"lost_events":{"source":"HUBBLE_RING_BUFFER","num_events_lost":"1"},"node_name":"kind-kind/kind-control-plane","time":"2025-09-19T01:25:07.024030920Z"}
